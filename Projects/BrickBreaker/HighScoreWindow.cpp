@@ -3,7 +3,7 @@
 
 HighScoreWindow::HighScoreWindow(QWidget *parent)
     : QDialog(parent){
-    // Sets up the label for the About information
+    // Sets up the label for the High Score information
     nameLabel = new QLabel(tr("Enter your name: "));
     nameLabel->setStyleSheet("QLabel{color: white}");
 
@@ -43,7 +43,7 @@ HighScoreWindow::HighScoreWindow(QWidget *parent)
     layout->addWidget(buttonBox, 1, Qt::AlignBottom);
     setLayout(layout);
 
-    // Sets the title of the About window
+    // Sets the title of the High Score window
     setWindowTitle(tr("High Scores"));
     setFixedSize(400,250);
 
