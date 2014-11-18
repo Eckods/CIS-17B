@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Resource">
+        <file>images/Exit-Hover.png</file>
+        <file>images/Exit.png</file>
+        <file>images/Exit-Clicked.png</file>
+        <file>images/Clicked.png</file>
+        <file>images/Default.png</file>
+        <file>images/Hover.png</file>
+        <file>images/Background.png</file>
+        <file>images/Ball.png</file>
+        <file>highscores.txt</file>
+        <file>images/BrickBreak.png</file>
+        <file>images/Brick.png</file>
+        <file>images/Paddle.png</file>
+    </qresource>
+</RCC>
