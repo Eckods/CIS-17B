@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Resources">
+        <file>names.txt</file>
+    </qresource>
+</RCC>
